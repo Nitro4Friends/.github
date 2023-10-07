@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.gg/pixelplayland">
-    <img src="../.github/assets/Logo.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/Nitro4Friends/.github/blob/main/.github/assets/Logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Nitro4Friends</h3>
@@ -9,7 +9,7 @@
     Earn Nitro by inviting your friends!
     <br />
     <br />
-    <img src="../.github/assets/Nitro4Friends.png" alt="Logo">
+    <img src="https://github.com/Nitro4Friends/.github/blob/main/.github/assets/Nitro4Friends.png" alt="Logo">
 
 `Mockup by` <a href="https://github.com/CoasterFreakDE">CoasterFreakDE</a>
   </p>
